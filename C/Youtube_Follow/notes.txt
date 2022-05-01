@@ -1,0 +1,32 @@
+// This is a txt file of notes on the C programming youtube class
+
+// arrays (data type) variable_name[num_of_elements]
+    // can have arrays of different data types
+
+// string is  a double quoted "string of characters" <- that is a string
+    // strings in C programming are stored as char arrays
+
+// char eggs_rock[21] = "I love eggs on toast!"
+
+// constant = variable that doesn't change
+
+// int = whole numbers
+
+// double = more standard, floating point type
+
+// float = 
+
+// float vs double
+//
+// double has double the precision of float  
+// %i - integer
+// %f - decimal
+// %e - scientific notation
+// %g - computer decides
+//  < -4
+//  >  5
+
+ // when using scanf
+// for double, float, and sci notificaiton
+//  always use %lf
+
